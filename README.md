@@ -1,4 +1,4 @@
-# DeepLearningProject
+# Geometric Deep Learning for Virality Prediction of Hashtags
 
 This is the project for the course of Deep Learning (A.Y. 2019/2020). 
 The project consists in implementing geometric deep learning techniques to predict virality of hashtags in tweets.
