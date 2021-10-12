@@ -1,0 +1,15 @@
+{
+    "use_model": "GCN",
+    "loss": "cross-entropy",
+    "use_data": "synth",
+    "train_target": "node",
+    "test_target": "graph",
+    "hidden_dim": 64,
+    "dropout": 0.2,
+    "num_layers": 4,
+    "lr": 1e-3,
+    "num_epochs": 20,
+    "early_stopping": true,
+    "min_delta": 0.0,
+    "patience": 5
+}
