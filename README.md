@@ -22,7 +22,10 @@ Check the presentation we gave of our project [here](presentation.pdf).
 
 - [Google Colab](https://colab.research.google.com/)
 - [PyTorch](https://pytorch.org/)
-- [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric)
+- [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
+- [PyTorch Lightning](https://www.pytorchlightning.ai/)
+- [NetworkX](https://networkx.org/)
+- [Tweepy](https://www.tweepy.org)
 
 ## Authors
 
